@@ -10,7 +10,7 @@ namespace ket_noi
     {
         static void Main(string[] args)
         {
-
+            abc
         }
     }
 }
